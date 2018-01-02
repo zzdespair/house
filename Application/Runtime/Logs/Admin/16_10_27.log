@@ -1,0 +1,21 @@
+[ 2016-10-27T09:36:39+08:00 ] ::1 /tp_rbac_demo/admin/public/assets/js/jquery.mobile.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-10-27T09:37:46+08:00 ] ::1 /tp_rbac_demo/admin/public/assets/js/jquery.mobile.custom.min.js
+ERR: 非法操作:assets
+
+[ 2016-10-27T14:57:37+08:00 ] ::1 /second_object_demo/index.php/Admin/Public/upload.html
+ERR: 非法操作:upload
+
+[ 2016-10-27T14:57:42+08:00 ] ::1 /second_object_demo/index.php/Admin/Public/upload.html
+ERR: 非法操作:upload
+
+[ 2016-10-27T21:12:40+08:00 ] ::1 /second_object_demo/index.php/Admin/Public/doupload.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test_object.lamp_imgs' doesn't exist
+
+[ 2016-10-27T21:13:40+08:00 ] ::1 /second_object_demo/index.php/Admin/Public/doupload.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test_object.lamp_imgs' doesn't exist
+
+[ 2016-10-27T21:13:43+08:00 ] ::1 /second_object_demo/index.php/Admin/Public/doupload.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test_object.lamp_imgs' doesn't exist
+

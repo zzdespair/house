@@ -1,0 +1,18 @@
+[ 2016-11-02T11:44:22+08:00 ] ::1 /second_object_demo/index.php/Admin/City/edit/id/1.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'test_object.lamp_city' doesn't exist
+
+[ 2016-11-02T14:49:48+08:00 ] ::1 /second_object_demo/index.php/Admin/City/save.html
+ERR: 非法操作:save
+
+[ 2016-11-02T14:50:03+08:00 ] ::1 /second_object_demo/index.php/Admin/City/save.html
+ERR: 非法操作:save
+
+[ 2016-11-02T14:50:06+08:00 ] ::1 /second_object_demo/index.php/Admin/City/save.html
+ERR: 非法操作:save
+
+[ 2016-11-02T15:10:01+08:00 ] ::1 /second_object_demo/index.php/Admin/City/csave.html
+ERR: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '[cid] )' at line 1
+
+[ 2016-11-02T15:10:46+08:00 ] ::1 /second_object_demo/index.php/Admin/City/csave.html
+ERR: SQLSTATE[42S22]: Column not found: 1054 Unknown column '$id' in 'where clause'
+

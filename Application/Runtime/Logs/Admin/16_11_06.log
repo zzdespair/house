@@ -1,0 +1,60 @@
+[ 2016-11-06T00:19:50+08:00 ] ::1 /RealHome/index.php/Admin/Blogroll/index.html
+ERR: 模板不存在:./Application/Admin/View/Blogroll/index.html
+
+[ 2016-11-06T00:20:02+08:00 ] ::1 /RealHome/index.php/Admin/Blogroll/add.html
+ERR: 非法操作:add
+
+[ 2016-11-06T00:20:16+08:00 ] ::1 /RealHome/index.php/Admin/Blogroll/index.html
+ERR: 模板不存在:./Application/Admin/View/Blogroll/index.html
+
+[ 2016-11-06T00:21:03+08:00 ] ::1 /RealHome/index.php/Admin/Blogroll/index.html
+ERR: 模板不存在:./Application/Admin/View/Blogroll/index.html
+
+[ 2016-11-06T00:22:02+08:00 ] ::1 /RealHome/index.php/Admin/Blogroll/index.html
+ERR: 模板不存在:./Application/Admin/View/Blogroll/index.html
+
+[ 2016-11-06T00:34:35+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:34:37+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.4221134442169967
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:34:38+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.8996382237956229
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:34:39+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.5995159905896248
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:09+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.6828846940523718
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:09+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.007420322584063221
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:10+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.20253814799346448
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:11+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.02019093675162842
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:23+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.6685226103586914
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:24+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.9276695496974103
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:25+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.20395397185012842
+ERR: 非法操作:verify
+
+[ 2016-11-06T00:35:25+08:00 ] ::1 /RealHome/index.php/Admin/Public/verify.html?verify=0.8848355834992265
+ERR: 非法操作:verify
+
+[ 2016-11-06T01:15:00+08:00 ] ::1 /RealHome/index.php/Admin/Notice/index.html
+ERR: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'realhome.notice' doesn't exist
+
+[ 2016-11-06T01:40:55+08:00 ] ::1 /RealHome/index.php/Admin/Orders/add.html
+ERR: 非法操作:add
+
+[ 2016-11-06T01:41:30+08:00 ] ::1 /RealHome/index.php/Admin/Orders/add.html
+ERR: 非法操作:add
+

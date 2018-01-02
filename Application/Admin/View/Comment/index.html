@@ -1,0 +1,52 @@
+<extend name="Layout/index" />
+<block name="breadcrumb-01">
+	<li>
+		<i class="icon-home home-icon"></i>
+		<a href="#">首页</a>
+	</li>
+	<li class="active">评价</li>
+</block>
+
+<block name="breadcrumb-02">
+	<h1>
+		评价
+		<small>
+			<i class="icon-double-angle-right"></i>
+			 评论列表
+		</small>
+	</h1>
+</block>	
+<block name="main">
+    <div class="contain">
+        <form action="<{:U('Comment/index')}>" action="post">
+            搜索：<input type="text" name="gid" class="search" placeholder="您要搜索的房源名称">
+                <input type="submit" value="查询" class="btn btn-info btn-sm">
+        </form>
+    </div><br>
+    <div class=".table-responsive">
+        <table class="table table-bordered table-hover">
+            <tr class="active">
+                <th>序号</th>
+                <th>房屋名</th>
+                <th>用户名</th>
+                <th>评论内容</th>
+                <th>评论时间</th>
+                <th>操作</th>
+            </tr>
+            <volist name="list" id="vo">
+            <tr class="success">
+                <td><{$vo['id']}></td>
+                <td><{$vo['gid']}></td>
+                <td><{$vo['uid']}></td>
+                <td><{$vo['desc']}></td>
+                <td><{$vo['createtime']}></td>
+                <td>
+                    <a href="<{:U('delete', array('id'=>$vo['id']))}>" class="btn btn-warning">删除</a> 
+                </td>
+            </tr>
+            </volist>
+        </table> <!--END table-->
+    </div> <!--END responsive-->
+    <!-- 分页显示 -->
+    <{$page}>                          
+</block>

@@ -1,0 +1,9 @@
+[ 2016-10-26T23:02:24+08:00 ] ::1 /tp_rbac_demo/index.php/Admin/Categorys/index111.html
+ERR: 非法操作:index111
+
+[ 2016-10-26T23:02:32+08:00 ] ::1 /tp_rbac_demo/index.php/Admin/Category111s/index.html
+ERR: 无法加载控制器:Category111s
+
+[ 2016-10-26T23:02:42+08:00 ] ::1 /tp_rbac_demo/index.php/Admin/Categorys/index1111.html
+ERR: 非法操作:index1111
+

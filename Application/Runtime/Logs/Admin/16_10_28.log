@@ -1,0 +1,39 @@
+[ 2016-10-28T14:56:33+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__%E6%9B%BE%E8%89%B3%E8%8A%AC
+ERR: 非法操作:__UPLOAD__曾艳芬
+
+[ 2016-10-28T14:56:33+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__%E5%86%AF%E8%96%AA%E6%9C%B5
+ERR: 非法操作:__UPLOAD__冯薪朵
+
+[ 2016-10-28T14:56:45+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__/%E6%9B%BE%E8%89%B3%E8%8A%AC
+ERR: 非法操作:__UPLOAD__
+
+[ 2016-10-28T14:56:45+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__/%E5%86%AF%E8%96%AA%E6%9C%B5
+ERR: 非法操作:__UPLOAD__
+
+[ 2016-10-28T14:56:45+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__/%E5%86%AF%E8%96%AA%E6%9C%B5
+ERR: 非法操作:__UPLOAD__
+
+[ 2016-10-28T14:56:45+08:00 ] ::1 /second_object_demo/index.php/Admin/index/__UPLOAD__/%E6%9B%BE%E8%89%B3%E8%8A%AC
+ERR: 非法操作:__UPLOAD__
+
+[ 2016-10-28T14:57:16+08:00 ] ::1 /second_object_demo/index.php/Admin/index/%3C%7B__UPLOAD__/.$v.name%7D%3E
+ERR: 非法操作:
+
+[ 2016-10-28T14:57:16+08:00 ] ::1 /second_object_demo/index.php/Admin/index/%3C%7B__UPLOAD__/.$v.name%7D%3E
+ERR: 非法操作:
+
+[ 2016-10-28T15:04:47+08:00 ] ::1 /second_object_demo/index.php/Admin/index/%3C%7B/second_object_demo./Uploads/.$v.name%7D%3E
+ERR: 非法操作:
+
+[ 2016-10-28T15:04:48+08:00 ] ::1 /second_object_demo/index.php/Admin/index/%3C%7B/second_object_demo./Uploads/.$v.name%7D%3E
+ERR: 非法操作:
+
+[ 2016-10-28T16:32:01+08:00 ] ::1 /second_object_demo/index.php/Admin/index/images.html
+ERR: 模板不存在:./Application/Admin/View/Index/images.html
+
+[ 2016-10-28T16:34:28+08:00 ] ::1 /second_object_demo/index.php/Admin/Header/upload.html
+ERR: 非法操作:upload
+
+[ 2016-10-28T16:45:38+08:00 ] ::1 /second_object_demo/index.php/Admin/Index/del.html
+ERR: 非法操作:del
+

@@ -1,0 +1,9 @@
+[ 2016-10-31T19:40:13+08:00 ] ::1 /second_object_demo/index.php/Home/Public/register.html
+ERR: 非法操作:register
+
+[ 2016-10-31T20:08:44+08:00 ] ::1 /second_object_demo/index.php/Home/Yonghu/index.html
+ERR: Think\Controller:_initialize方法不存在！
+
+[ 2016-10-31T20:26:55+08:00 ] ::1 /second_object_demo/index.php/Home/Yonghu/doadd.html
+ERR: SQLSTATE[HY000]: General error: 1364 Field 'regtime' doesn't have a default value
+
